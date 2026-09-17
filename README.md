@@ -21,7 +21,7 @@ A hybrid labeling pipeline (TextBlob + VADER + keyword tagging, with DistilBERT 
 
 ## Key Results
 
-The word scoring (AFINN) approach achieved the strongest overall performance, slightly outperforming the deep learning model, while the rule-based method consistently performed the worst. This suggests that, with a well constructed labeled dataset, traditional lexicon-based methods can be competitive with more complex deep learning models.
+The word scoring (AFINN) approach achieved the strongest overall performance, slightly outperforming the deep learning model, while the rule-based method consistently performed the worst. This says that, with a well constructed labeled dataset, traditional lexicon-based methods can be competitive with more complex deep learning models from our research.
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |---|---|---|---|---|
