@@ -5,13 +5,13 @@ Authors: Joseph Rodriguez, Peter Chinedu Chukwu, Quinton C. Haughton, Mohamed Ra
 
 ## Paper
 
-The full write-up is available here: [Flight Experience Feedback Analysis (PDF)](./CSC_400_Final_Research_Paper.pdf)
+The final paper that was submitted is available here: [Flight Experience Feedback Analysis (PDF)](./CSC_400_Final_Research_Paper.pdf)
 
 *Unpublished course research paper, CSC 400, Southern Connecticut State University.*
 
 ## Overview
 
-This project analyzes airline passenger reviews using sentiment analysis to better understand customer satisfaction. It compares the effectiveness of three sentiment classification techniques on a large, hybrid labeled dataset scraped from airlinequality.com (Skytrax):
+This project analyzes airline passenger reviews using sentiment analysis to create a better understand of customer satisfaction. It compares the effectiveness and accuracy of three sentiment classification techniques on a large, hybrid labeled dataset scraped from airlinequality.com (Skytrax):
 
 - **Word Score Sentiment Scoring (AFINN)** lexicon based word level scoring
 - **Rule Based Sentiment Analysis (SentiWordNet)** POS aware lexicon scoring with negation and intensifier handling
